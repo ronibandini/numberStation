@@ -1,6 +1,6 @@
 # Number Station
 
-Este es un pequeño proyecto del Taller de Introducción a la Contracultura Maker
+Este es un pequeño proyecto del Taller de Introducción a la Contracultura Maker https://bandini.medium.com/taller-de-contracultura-maker-e4a953256211
 
 Los Number Stations son estaciones de onda corta caracterizadas por transmitir secuencias de números. Siempre están rodeados de un halo de misterio y suele ser dificil comprobar quienes son los responsables aunque se presupone que son agencias de seguridad. Sus origenes datan desde fines de la primera guerra mundial y en algunos casos transmiten morse también.
 
